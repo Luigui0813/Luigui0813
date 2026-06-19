@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Luigui0813
 - 👀 I’m interested in cibersecurity and etic hacking
 - 🌱 I’m currently learning  software development
-- 💞️ I’m looking to collaborate on ..
